@@ -3,112 +3,134 @@
     { 
       "id": 1, 
       "title": "Captain America: The First Avenger",
-      "year": "2011"
+      "year": "2011",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamerica_lob_crd_01.jpg"
     },
     { 
       "id": 2, 
       "title": "Iron Man",
-      "year": "2008"
+      "year": "2008",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironman_lob_crd_01_3.jpg"
     },
     { 
       "id": 3, 
       "title": "The Incredible Hulk",
-      "year": "2008"
+      "year": "2008",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/theincrediblehulk_lob_crd_01_2.jpg"
     },
     { 
       "id": 4, 
       "title": "Iron Man 2",
-      "year": "2010"
+      "year": "2010",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironman2_lob_crd_01_3.jpg"
     },
     { 
       "id": 5, 
       "title": "Thor",
-      "year": "2011"
+      "year": "2011",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thor_lob_crd_01.jpg"
     },
     { 
       "id": 6, 
       "title": "The Avengers",
-      "year": "2012"
+      "year": "2012",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/theavengers_lob_crd_03.jpg"
     },
     { 
       "id": 7, 
       "title": "Iron Man 3",
-      "year": "2013"
+      "year": "2013",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironman3_lob_crd_01_10.jpg"
     },
     { 
       "id": 8, 
       "title": "Thor: The Dark World",
-      "year": "2013"
+      "year": "2013",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thorthedarkworld_lob_crd_02_1.jpg"
     },
     { 
       "id": 9, 
       "title": "Captain American: The Winter Soldier",
-      "year": "2014"
+      "year": "2014",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamericathewintersoldier_lob_crd_01_1.jpg"
     },
     { 
       "id": 10, 
       "title": "Guardians of the Galaxy",
-      "year": "2014"
+      "year": "2014",
+      "imageurl": "XXXX"
     },
     { 
       "id": 11, 
       "title": "Guardians of the Galaxy Vol.2",
-      "year": "2017"
+      "year": "2017",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/guardiansofthegalaxy_lob_crd_03.jpg"
     },
     { 
       "id": 12, 
       "title": "The Avenger: Age of Ultron",
-      "year": "2015"
+      "year": "2015",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersageofultron_lob_crd_03.jpg"
     },
     { 
       "id": 13, 
       "title": "Ant-Man",
-      "year": "2015"
+      "year": "2015",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ant-man_lob_crd_01_8.jpg"
     },
     { 
       "id": 14, 
       "title": "Captain American: Civil War",
-      "year": "2016"
+      "year": "2016",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamericacivilwar_lob_crd_01_9.jpg"
     },
     { 
       "id": 15, 
       "title": "Spiderman: Home Coming",
-      "year": "2017"
+      "year": "2017",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-manhomecoming_lob_crd_01_3.jpg"
     },
     { 
       "id": 16, 
       "title": "Doctor Strange",
-      "year": "2016"
+      "year": "2016",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/doctorstrange_lob_crd_01_6.jpg"
     },
     { 
       "id": 17, 
       "title": "Thor: Ragnarok",
-      "year": "2017"
+      "year": "2017",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thorragnarok_lob_crd_03.jpg"
     },
     { 
       "id": 18, 
       "title": "Black Panther",
-      "year": "2018"
+      "year": "2018",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/blackpanther_lob_crd_01_4.jpg"
     },
     { 
       "id": 19, 
       "title": "Avengers: Infinity War",
-      "year": "2018"
+      "year": "2018",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersinfinitywar_lob_crd_02_1.jpg"
     },
     { 
       "id": 20, 
       "title": "Ant-Man and the Wasp",
-      "year": "2018"
+      "year": "2018",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ant-manthewasp_lob_crd_01.jpg"
     },
     { 
       "id": 21, 
       "title": "Captain Marvel",
-      "year": "2018"
+      "year": "2018",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainmarvel_lob_crd_06.jpg"
     },
     { 
       "id": 22, 
       "title": "The Avenger: End Game",
-      "year": "2019"
+      "year": "2019",
+      "imageurl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersendgame_lob_crd_05_2.jpg"
     }
     
     
