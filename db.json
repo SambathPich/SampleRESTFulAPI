@@ -1,0 +1,11 @@
+{
+  "movies": [
+    { "id": 1, "title": "Avenger - End Game" },
+    { "id": 2, "title": "Aquaman" },
+    { "id": 3, "title": "Spiderman - Far From Home" }
+  ],
+  "reviews": [
+    { "id": 1, "review": "Great movie", "postId": 1 },
+    { "id": 2, "review": "Love the way it ended", "postId": 1 }
+  ]
+}
