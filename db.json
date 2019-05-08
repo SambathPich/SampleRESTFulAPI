@@ -138,18 +138,21 @@
   "reviews": [
     { 
       "id": 1, 
-      "review": "Great movie", 
-      "movieId": 1 
+      "movieId": 1,
+      "reviewer": "Tommy", 
+      "review": "Great movie"
     },
     { 
       "id": 2, 
+      "movieId": 1,
+      "reviewer": "John",
       "review": "Love the way it ended", 
-      "movieId": 1 
     },
     { 
       "id": 3, 
-      "review": "Amazing graphic", 
-      "movieId": 2 
+      "movieId": 2,
+      "reviewer": "Michael",
+      "review": "Amazing graphic"
     }
   ]
 }
