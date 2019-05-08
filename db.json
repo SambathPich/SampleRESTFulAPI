@@ -52,29 +52,65 @@
     },
     { 
       "id": 11, 
+      "title": "Guardians of the Galaxy Vol.2",
+      "year": "2017"
+    },
+    { 
+      "id": 12, 
       "title": "The Avenger: Age of Ultron",
       "year": "2015"
     },
     { 
-      "id": 12, 
+      "id": 13, 
       "title": "Ant-Man",
       "year": "2015"
     },
     { 
-      "id": 13, 
-      "title": "Spiderman: Home Coming",
-      "year": "2017"
-    },
-    { 
       "id": 14, 
-      "title": "Doctor Strange",
+      "title": "Captain American: Civil War",
       "year": "2016"
     },
     { 
       "id": 15, 
+      "title": "Spiderman: Home Coming",
+      "year": "2017"
+    },
+    { 
+      "id": 16, 
+      "title": "Doctor Strange",
+      "year": "2016"
+    },
+    { 
+      "id": 17, 
+      "title": "Thor: Ragnarok",
+      "year": "2017"
+    },
+    { 
+      "id": 18, 
+      "title": "Black Panther",
+      "year": "2018"
+    },
+    { 
+      "id": 19, 
+      "title": "Avengers: Infinity War",
+      "year": "2018"
+    },
+    { 
+      "id": 20, 
+      "title": "Ant-Man and the Wasp",
+      "year": "2018"
+    },
+    { 
+      "id": 21, 
+      "title": "Captain Marvel",
+      "year": "2018"
+    },
+    { 
+      "id": 22, 
       "title": "The Avenger: End Game",
       "year": "2019"
     }
+    
     
   ],
   "reviews": [
