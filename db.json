@@ -1,11 +1,49 @@
 {
   "movies": [
-    { "id": 1, "title": "Avenger - End Game" },
-    { "id": 2, "title": "Aquaman" },
-    { "id": 3, "title": "Spiderman - Far From Home" }
+    { 
+      "id": 1, 
+      "title": "Avenger - End Game" 
+    },
+    { 
+      "id": 2, 
+      "title": "Aquaman" 
+    },
+    { 
+      "id": 3, 
+      "title": "Spiderman - Far From Home" 
+    },
+    { 
+      "id": 4, 
+      "title": "Thor - The Dark World" 
+    },
+    { 
+      "id": 5, 
+      "title": "Guardians of the Galaxy" 
+    },
+    { 
+      "id": 6, 
+      "title": "Captain Marvel" 
+    },
+    { 
+      "id": 7, 
+      "title": "Antman and the Wasp" 
+    }
   ],
   "reviews": [
-    { "id": 1, "review": "Great movie", "postId": 1 },
-    { "id": 2, "review": "Love the way it ended", "postId": 1 }
+    { 
+      "id": 1, 
+      "review": "Great movie", 
+      "movieId": 1 
+    },
+    { 
+      "id": 2, 
+      "review": "Love the way it ended", 
+      "movieId": 1 
+    },
+    { 
+      "id": 3, 
+      "review": "Amazing graphic", 
+      "movieId": 2 
+    }
   ]
 }
