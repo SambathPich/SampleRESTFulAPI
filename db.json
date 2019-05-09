@@ -312,8 +312,44 @@
     { 
       "id": 30,
       "movieId": 22,
-      "reviewer": "Jimmy",
+      "reviewer": "Walker",
       "review": "Many people love it, but I don't. Hate the ending" 
+    },
+    { 
+      "id": 31,
+      "movieId": 22,
+      "reviewer": "Wayne",
+      "review": "Can anyone explain me the ending?" 
+    },
+    { 
+      "id": 32,
+      "movieId": 22,
+      "reviewer": "David",
+      "review": "Just another Marvel movie" 
+    },
+    { 
+      "id": 33,
+      "movieId": 22,
+      "reviewer": "Kane",
+      "review": "Aquaman is a lot better" 
+    },
+    { 
+      "id": 34,
+      "movieId": 22,
+      "reviewer": "Troy",
+      "review": "Hate the way it ends" 
+    },
+    { 
+      "id": 35,
+      "movieId": 22,
+      "reviewer": "Brad",
+      "review": "Will buy tickets for my kids to watch" 
+    },
+    { 
+      "id": 36,
+      "movieId": 22,
+      "reviewer": "Julie",
+      "review": "Last fight scene made me cry" 
     }
   ]
 }
