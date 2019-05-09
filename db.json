@@ -167,186 +167,90 @@
     },
     { 
       "id": 6,
-      "movieId": 4,
-      "reviewer": "John",
-      "review": "Wow, I like it" 
-    },
-    { 
-      "id": 7,
-      "movieId": 4,
-      "reviewer": "Tom",
-      "review": "Not bad" 
-    },
-    { 
-      "id": 8,
-      "movieId": 7,
-      "reviewer": "Harry",
-      "review": "I don't like it" 
-    },
-    { 
-      "id": 9,
-      "movieId": 7,
-      "reviewer": "Chu",
-      "review": "Can't wait for a new one" 
-    },
-    { 
-      "id": 10,
-      "movieId": 7,
-      "reviewer": "Eden",
-      "review": "Actors are great" 
-    },
-    { 
-      "id": 11,
-      "movieId": 7,
-      "reviewer": "Hazard",
-      "review": "I prefer watching soccer" 
-    },
-    { 
-      "id": 12,
-      "movieId": 11,
-      "reviewer": "Becks",
-      "review": "I don't understand the ending" 
-    },
-    { 
-      "id": 13,
-      "movieId": 11,
-      "reviewer": "Cole",
-      "review": "Hate it" 
-    },
-    { 
-      "id": 14,
-      "movieId": 13,
-      "reviewer": "Neville",
-      "review": "Haha, so funny" 
-    },
-    { 
-      "id": 15,
-      "movieId": 13,
-      "reviewer": "Patrice",
-      "review": "I don't understand this movie" 
-    },
-    { 
-      "id": 16,
-      "movieId": 13,
-      "reviewer": "Brooklyn",
-      "review": "Amazing movie" 
-    },
-    { 
-      "id": 17,
-      "movieId": 17,
-      "reviewer": "Michael",
-      "review": "Great movie ever" 
-    },
-    { 
-      "id": 18,
-      "movieId": 17,
-      "reviewer": "Johny",
-      "review": "Better watch Netflix" 
-    },
-    { 
-      "id": 19,
-      "movieId": 17,
-      "reviewer": "Rashford",
-      "review": "Great fighting scences" 
-    },
-    { 
-      "id": 20,
-      "movieId": 19,
-      "reviewer": "Martial",
-      "review": "Not good, not bad" 
-    },
-    { 
-      "id": 21,
-      "movieId": 19,
-      "reviewer": "Sambath",
-      "review": "I would recommend this for my friend" 
-    },
-    { 
-      "id": 22,
       "movieId": 22,
       "reviewer": "John",
       "review": "I don't like this movie at all" 
     },
     { 
-      "id": 23,
+      "id": 7,
       "movieId": 22,
       "reviewer": "Kayle",
       "review": "Love it, can't wait to tell my friend" 
     },
     { 
-      "id": 24,
+      "id": 8,
       "movieId": 22,
       "reviewer": "Sam",
       "review": "Great movie, thumb up" 
     },
     { 
-      "id": 25,
+      "id": 9,
       "movieId": 22,
       "reviewer": "Jimmy",
       "review": "Sad ending, love it so bad" 
     },
     { 
-      "id": 26,
+      "id": 10,
       "movieId": 22,
       "reviewer": "Bobby",
       "review": "Complicated ending, but great movie" 
     },
     { 
-      "id": 27,
+      "id": 11,
       "movieId": 22,
       "reviewer": "Kenny",
       "review": "No wonder many records broken" 
     },
     { 
-      "id": 28,
+      "id": 12,
       "movieId": 22,
       "reviewer": "Peter",
       "review": "Will watch it soon after muy final exam" 
     },
     { 
-      "id": 29,
+      "id": 13,
       "movieId": 22,
       "reviewer": "Robert",
       "review": "My kids don't like it, but I think it's a great movie" 
     },
     { 
-      "id": 30,
+      "id": 14,
       "movieId": 22,
       "reviewer": "Walker",
       "review": "Many people love it, but I don't. Hate the ending" 
     },
     { 
-      "id": 31,
+      "id": 15,
       "movieId": 22,
       "reviewer": "Wayne",
       "review": "Can anyone explain me the ending?" 
     },
     { 
-      "id": 32,
+      "id": 16,
       "movieId": 22,
       "reviewer": "David",
       "review": "Just another Marvel movie" 
     },
     { 
-      "id": 33,
+      "id": 17,
       "movieId": 22,
       "reviewer": "Kane",
       "review": "Aquaman is a lot better" 
     },
     { 
-      "id": 34,
+      "id": 18,
       "movieId": 22,
       "reviewer": "Troy",
       "review": "Hate the way it ends" 
     },
     { 
-      "id": 35,
+      "id": 19,
       "movieId": 22,
       "reviewer": "Brad",
       "review": "Will buy tickets for my kids to watch" 
     },
     { 
-      "id": 36,
+      "id": 20,
       "movieId": 22,
       "reviewer": "Julie",
       "review": "Last fight scene made me cry" 
