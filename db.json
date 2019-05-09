@@ -290,6 +290,30 @@
       "movieId": 22,
       "reviewer": "Bobby",
       "review": "Complicated ending, but great movie" 
+    },
+    { 
+      "id": 27,
+      "movieId": 22,
+      "reviewer": "Kenny",
+      "review": "No wonder many records broken" 
+    },
+    { 
+      "id": 28,
+      "movieId": 22,
+      "reviewer": "Peter",
+      "review": "Will watch it soon after muy final exam" 
+    },
+    { 
+      "id": 29,
+      "movieId": 22,
+      "reviewer": "Robert",
+      "review": "My kids don't like it, but I think it's a great movie" 
+    },
+    { 
+      "id": 30,
+      "movieId": 22,
+      "reviewer": "Jimmy",
+      "review": "Many people love it, but I don't. Hate the ending" 
     }
   ]
 }
