@@ -152,6 +152,144 @@
       "movieId": 2, 
       "reviewer": "Michael",
       "review": "Amazing graphic"
+    },
+    { 
+      "id": 4,
+      "movieId": 3,
+      "reviewer": "Liam",
+      "review": "Not a bad movie" 
+    },
+    { 
+      "id": 5,
+      "movieId": 4,
+      "reviewer": "Sam",
+      "review": "Wanna watch it again" 
+    },
+    { 
+      "id": 6,
+      "movieId": 5,
+      "reviewer": "John",
+      "review": "Wow, I like it" 
+    },
+    { 
+      "id": 7,
+      "movieId": 6,
+      "reviewer": "Tom",
+      "review": "Not bad" 
+    },
+    { 
+      "id": 8,
+      "movieId": 7,
+      "reviewer": "Harry",
+      "review": "I don't like it" 
+    },
+    { 
+      "id": 9,
+      "movieId": 8,
+      "reviewer": "Chu",
+      "review": "Can't wait for a new one" 
+    },
+    { 
+      "id": 10,
+      "movieId": 9,
+      "reviewer": "Eden",
+      "review": "Actors are great" 
+    },
+    { 
+      "id": 11,
+      "movieId": 10,
+      "reviewer": "Hazard",
+      "review": "I prefer watching soccer" 
+    },
+    { 
+      "id": 12,
+      "movieId": 11,
+      "reviewer": "Becks",
+      "review": "I don't understand the ending" 
+    },
+    { 
+      "id": 13,
+      "movieId": 12,
+      "reviewer": "Cole",
+      "review": "Hate it" 
+    },
+    { 
+      "id": 14,
+      "movieId": 13,
+      "reviewer": "Neville",
+      "review": "Haha, so funny" 
+    },
+    { 
+      "id": 15,
+      "movieId": 14,
+      "reviewer": "Patrice",
+      "review": "I don't understand this movie" 
+    },
+    { 
+      "id": 16,
+      "movieId": 15,
+      "reviewer": "Brooklyn",
+      "review": "Amazing movie" 
+    },
+    { 
+      "id": 17,
+      "movieId": 16,
+      "reviewer": "Michael",
+      "review": "Great movie ever" 
+    },
+    { 
+      "id": 18,
+      "movieId": 17,
+      "reviewer": "Johny",
+      "review": "Better watch Netflix" 
+    },
+    { 
+      "id": 19,
+      "movieId": 18,
+      "reviewer": "Rashford",
+      "review": "Great fighting scences" 
+    },
+    { 
+      "id": 20,
+      "movieId": 19,
+      "reviewer": "Martial",
+      "review": "Not good, not bad" 
+    },
+    { 
+      "id": 21,
+      "movieId": 20,
+      "reviewer": "Sambath",
+      "review": "I would recommend this for my friend" 
+    },
+    { 
+      "id": 22,
+      "movieId": 20,
+      "reviewer": "John",
+      "review": "I don't like this movie at all" 
+    },
+    { 
+      "id": 23,
+      "movieId": 21,
+      "reviewer": "Kayle",
+      "review": "Love it, can't wait to tell my friend" 
+    },
+    { 
+      "id": 24,
+      "movieId": 22,
+      "reviewer": "Sam",
+      "review": "Great movie, thumb up" 
+    },
+    { 
+      "id": 24,
+      "movieId": 22,
+      "reviewer": "Jimmy",
+      "review": "Sad ending, love it so bad" 
+    },
+    { 
+      "id": 2,
+      "movieId": 22,
+      "reviewer": "Bobby",
+      "review": "Complicated ending, but great movie" 
     }
   ]
 }
