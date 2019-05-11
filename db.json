@@ -167,91 +167,91 @@
     },
     { 
       "id": 6,
-      "movieId": 22,
+      "movieId": 1,
       "reviewer": "John",
       "review": "I don't like this movie at all" 
     },
     { 
       "id": 7,
-      "movieId": 22,
-      "reviewer": "Kayle",
+      "movieId": 1,
+      "reviewer": "Logan",
       "review": "Love it, can't wait to tell my friend" 
     },
     { 
       "id": 8,
-      "movieId": 22,
+      "movieId": 1,
       "reviewer": "Sam",
       "review": "Great movie, thumb up" 
     },
     { 
       "id": 9,
-      "movieId": 22,
+      "movieId": 1,
       "reviewer": "Jimmy",
       "review": "Sad ending, love it so bad" 
     },
     { 
       "id": 10,
-      "movieId": 22,
+      "movieId": 1,
       "reviewer": "Bobby",
       "review": "Complicated ending, but great movie" 
     },
     { 
       "id": 11,
-      "movieId": 22,
+      "movieId": 1,
       "reviewer": "Kenny",
       "review": "No wonder many records broken" 
     },
     { 
       "id": 12,
-      "movieId": 22,
+      "movieId": 1,
       "reviewer": "Peter",
       "review": "Will watch it soon after muy final exam" 
     },
     { 
       "id": 13,
-      "movieId": 22,
+      "movieId": 1,
       "reviewer": "Robert",
       "review": "My kids don't like it, but I think it's a great movie" 
     },
     { 
       "id": 14,
-      "movieId": 22,
+      "movieId": 1,
       "reviewer": "Walker",
       "review": "Many people love it, but I don't. Hate the ending" 
     },
     { 
       "id": 15,
-      "movieId": 22,
+      "movieId": 1,
       "reviewer": "Wayne",
       "review": "Can anyone explain me the ending?" 
     },
     { 
       "id": 16,
-      "movieId": 22,
+      "movieId": 1,
       "reviewer": "David",
       "review": "Just another Marvel movie" 
     },
     { 
       "id": 17,
-      "movieId": 22,
+      "movieId": 1,
       "reviewer": "Kane",
       "review": "Aquaman is a lot better" 
     },
     { 
       "id": 18,
-      "movieId": 22,
+      "movieId": 1,
       "reviewer": "Troy",
       "review": "Hate the way it ends" 
     },
     { 
       "id": 19,
-      "movieId": 22,
+      "movieId": 1,
       "reviewer": "Brad",
       "review": "Will buy tickets for my kids to watch" 
     },
     { 
       "id": 20,
-      "movieId": 22,
+      "movieId": 1,
       "reviewer": "Julie",
       "review": "Last fight scene made me cry" 
     }
